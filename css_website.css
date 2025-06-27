@@ -1,0 +1,66 @@
+.big_div{
+	height: 900px;
+	width: 100%;
+	background-color: #13c9e3 ;
+}
+.nav_bar{
+	height: 100px;
+	width: 100%;
+	float: left;
+	
+}
+.inline_name:hover{
+	border-bottom: 2px solid yellow;
+}
+.main{
+	height: 800px;
+	width: 100%;
+	float: left;
+	
+}
+.main1{
+	height: 800px;
+	width: 60%;
+	float: left;
+	
+}
+
+.main2{
+	height: 800px;
+	width: 40%;
+	float: left;
+	
+}
+.big_div2{
+	height: 1500px;
+	width: 100%;
+	background-color: pink;
+	margin-top: 100px;
+}
+.qushtion{
+	height: 400px;
+	width: 60%;
+	float: left;
+	margin-left: 20%;
+} 
+
+.paragraph2{
+	 height: 300px;
+	width: 60%;
+	
+	margin-left: 20%;
+	margin-top: 100px;
+}
+
+.paragraph3{
+	 height: 300px;
+	width: 60%;
+	
+	margin-left: 20%;
+	margin-top: 100px;
+}
+
+	 
+
+
+
